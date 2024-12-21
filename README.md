@@ -19,6 +19,9 @@
 
 1. Clone or download this repository.
 2. Ensure Python 3.x is installed on your system.
+   ```bash
+   git clone https://github.com/krishnagopaljha/keycraft.git
+   cd keycraft
 
 ## Usage
 
